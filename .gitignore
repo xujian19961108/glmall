@@ -1,5 +1,8 @@
 .idea/
 *.iml
+mvnw*
+.mvn
+gmall-pms.iml
 # Compiled class file
 *.class
 
